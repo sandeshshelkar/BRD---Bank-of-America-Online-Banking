@@ -1,0 +1,5 @@
+This Business Requirements Document (BRD) is created for the Online Banking System Implementation Project at Bank of America. The purpose of this BRD is to clearly define the business needs, goals, and requirements for developing an online banking system that will improve customer experience and reduce operational costs.
+
+Currently, Bank of America offers limited banking services, operating only 8 hours a day on weekdays. This makes it difficult for customers to access banking services during evenings or weekends. Additionally, customers face long wait times (20 minutes on average) when calling the bank’s contact center, leading to frustration and higher costs for the bank.
+
+To solve these problems, Bank of America plans to introduce an Online Banking System. This system will allow customers to manage their accounts 24/7 through a secure and easy-to-use online platform. Customers will be able to perform tasks like checking account balances, transferring funds, paying bills, and ordering checks without needing to visit a branch or call the help center.
